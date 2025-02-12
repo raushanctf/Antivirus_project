@@ -1,4 +1,4 @@
-
+# Antivirus Tools
 The Antivirus Project aims to develop a robust and efficient security solution to protect computer systems from malicious software and cyber threats.
 A simple antivirus project coded incapable of scanning files and identifying potential
 malware or suspicious content. 
@@ -9,6 +9,11 @@ the use of multiple malware hashes such as MD5, SHA1, and SHA256 for identifying
   * automatic updates, 
   * quarantine management, 
   * user-friendly interface.
+
+# Techonology used here
+ * Python
+ * Tkinter
+ * hashlib
 
 they look like 
 
